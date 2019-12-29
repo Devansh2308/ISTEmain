@@ -2,7 +2,7 @@
 import Head from 'next/head';
 import Home from "../components/Home";
 import About from "../components/About";
-import Events1 from "../components/events1";
+import Events1 from "../components/Events1";
 import Nav2 from "../components/Nav2";
 import Contact from "../components/Contact";
 
